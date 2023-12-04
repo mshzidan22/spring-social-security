@@ -1,0 +1,5 @@
+Hi #username,
+To confirm your email address, please validate this request via the link below:
+http://127.0.0.1:8080/verify/#verification
+
+If you don't validate your email, your account will be automatically deleted After 1 month.

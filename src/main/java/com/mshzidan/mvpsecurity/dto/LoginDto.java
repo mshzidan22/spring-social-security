@@ -1,0 +1,9 @@
+package com.mshzidan.mvpsecurity.dto;
+
+import lombok.Data;
+
+@Data
+public class LoginDto {
+    private String username;
+    private String password;
+}

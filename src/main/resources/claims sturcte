@@ -1,0 +1,72 @@
+Google claims
+----------------------------------
+at_hash  yKBFyM6qy2ZJsYDrjBXEPw
+sub  105520314980666800645
+email_verified  true
+iss  https://accounts.google.com
+given_name  Mohamed
+locale  en-GB
+nonce  e6_ApONhWnBFc9cWWCne2CnN02QORjq-Tps4Rg5fd9U
+picture  https://lh3.googleusercontent.com/a/ACg8ocKwL0dE7Oes1flwTiAzAbKgLls6YygZVOuT1szJR84hkXo=s96-c
+aud  [243791043025-rprf5saeidb00cmvg80g8p48l84dao1t.apps.googleusercontent.com]
+azp  243791043025-rprf5saeidb00cmvg80g8p48l84dao1t.apps.googleusercontent.com
+name  Mohamed Zidan
+exp  2023-11-02T15:08:54Z
+family_name  Zidan
+iat  2023-11-02T14:08:54Z
+email  mshzidan22@gmail.com
+
+
+GitHubClaims
+----------------------------------
+gists_url  https://api.github.com/users/mshzidan22/gists{/gist_id}
+repos_url  https://api.github.com/users/mshzidan22/repos
+two_factor_authentication  false
+following_url  https://api.github.com/users/mshzidan22/following{/other_user}
+twitter_username  null
+bio  null
+created_at  2018-06-26T09:32:58Z
+login  mshzidan22
+type  User
+blog
+private_gists  0
+total_private_repos  0
+subscriptions_url  https://api.github.com/users/mshzidan22/subscriptions
+updated_at  2023-10-30T21:19:52Z
+site_admin  false
+disk_usage  108095
+collaborators  0
+company  null
+owned_private_repos  0
+id  40596471
+public_repos  32
+gravatar_id
+plan  {name=free, space=976562499, collaborators=0, private_repos=10000}
+email  null
+organizations_url  https://api.github.com/users/mshzidan22/orgs
+hireable  null
+starred_url  https://api.github.com/users/mshzidan22/starred{/owner}{/repo}
+followers_url  https://api.github.com/users/mshzidan22/followers
+public_gists  1
+url  https://api.github.com/users/mshzidan22
+received_events_url  https://api.github.com/users/mshzidan22/received_events
+followers  0
+avatar_url  https://avatars.githubusercontent.com/u/40596471?v=4
+events_url  https://api.github.com/users/mshzidan22/events{/privacy}
+html_url  https://github.com/mshzidan22
+following  0
+name  null
+location  null
+node_id  MDQ6VXNlcjQwNTk2NDcx
+--------------------------------------------------------------------------
+
+
+facebook claims
+-------------------------------------------------------------------------
+name  Mohamed Shabban
+id  2766951140124083
+email  mshzidan22@yahoo.com
+
+
+
+
